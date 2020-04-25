@@ -41,16 +41,14 @@ class Joke extends Component {
       <div className="Joke">
         <div className="Joke-buttons">
           <i className="fas fa-arrow-up" onClick={this.props.upvote}></i>
-          <span className="Joke-votes" style = {{borderColor:this.getColor()}} >{this.props.votes}</span>
+          <span className="Joke-votes" style={{ borderColor: this.getColor() }}>
+            {this.props.votes}
+          </span>
           <i className="fas fa-arrow-down" onClick={this.props.downvote}></i>
         </div>
         <div className="Joke-text">{this.props.text}</div>
         <div className="Joke-smiley">
-          <i
-            className = {this.getEmoji()}
-            aria-role="presentation"
-            aria-label="ROLLING ON THE FLOOR LAUGHING"
-          ></i>
+          <i className={this.getEmoji()}></i>
         </div>
       </div>
     );
