@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Cheesy-Peasy/static/css/main.473ac88f.chunk.css",
+    "main.js": "/Cheesy-Peasy/static/js/main.f23f802d.chunk.js",
+    "main.js.map": "/Cheesy-Peasy/static/js/main.f23f802d.chunk.js.map",
+    "runtime-main.js": "/Cheesy-Peasy/static/js/runtime-main.297e7967.js",
+    "runtime-main.js.map": "/Cheesy-Peasy/static/js/runtime-main.297e7967.js.map",
+    "static/css/2.37c8ca3c.chunk.css": "/Cheesy-Peasy/static/css/2.37c8ca3c.chunk.css",
+    "static/js/2.811cd09e.chunk.js": "/Cheesy-Peasy/static/js/2.811cd09e.chunk.js",
+    "static/js/2.811cd09e.chunk.js.map": "/Cheesy-Peasy/static/js/2.811cd09e.chunk.js.map",
+    "index.html": "/Cheesy-Peasy/index.html",
+    "precache-manifest.fdac38c55a28a33a32f8e08f9e8b0131.js": "/Cheesy-Peasy/precache-manifest.fdac38c55a28a33a32f8e08f9e8b0131.js",
+    "service-worker.js": "/Cheesy-Peasy/service-worker.js",
+    "static/css/2.37c8ca3c.chunk.css.map": "/Cheesy-Peasy/static/css/2.37c8ca3c.chunk.css.map",
+    "static/css/main.473ac88f.chunk.css.map": "/Cheesy-Peasy/static/css/main.473ac88f.chunk.css.map",
+    "static/js/2.811cd09e.chunk.js.LICENSE.txt": "/Cheesy-Peasy/static/js/2.811cd09e.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/Cheesy-Peasy/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.297e7967.js",
+    "static/css/2.37c8ca3c.chunk.css",
+    "static/js/2.811cd09e.chunk.js",
+    "static/css/main.473ac88f.chunk.css",
+    "static/js/main.f23f802d.chunk.js"
+  ]
+}
